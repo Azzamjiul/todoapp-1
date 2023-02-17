@@ -7,7 +7,7 @@
   <title>LOGIN</title>
 </head>
 <body>
-  <h1>Halo Ibu dan Bapak</h1>
+  <h1>Silahkan masuk dulu dek</h1>
 
   <form action="{{ route('processLogin') }}" method="POST">
     @csrf
